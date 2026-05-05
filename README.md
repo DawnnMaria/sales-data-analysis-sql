@@ -60,6 +60,13 @@ Relationships are established using primary and foreign keys.
 This project demonstrates how SQL can be used to transform raw transactional data into insights that support decision-making in sales, marketing, and customer retention.
 
 ---
+## 📸 Sample Output
+
+### Top Revenue Products
+![Top Products](top_products.png)
+
+### Monthly Revenue Trends
+![Monthly Revenue](monthly_revenue.png)
 
 ## 👤 Author
 Dawnn Maria
